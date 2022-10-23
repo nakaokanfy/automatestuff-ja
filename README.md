@@ -8,6 +8,10 @@
 
 本リポジトリはオライリー・ジャパン発行書籍『[退屈なことはPythonにやらせよう](https://www.oreilly.co.jp/books/9784873117782/)』（原書名『[Automate the Boring Stuff with Python](https://www.nostarch.com/automatestuff)』） のサポートサイトです。
 
+## 英語原文
+
+https://automatetheboringstuff.com/
+
 ## サンプルコード
 
 サンプルコードの解説は本書籍をご覧ください。
